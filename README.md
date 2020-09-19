@@ -1,4 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][https://github.com/verwindle/]
 
 
 <!-- CONTENTS -->
@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Task Screenshot][title sheet]](https://github.com/verwindle/faces_gender_classification/blob/master/title_sheet.png)
+![Task Screenshot](https://github.com/verwindle/faces_gender_classification/blob/master/title_sheet.png)
 
 This repository was created for NtechLab CV team verification. And contains my solution for the problem. Description of the problem is clear for russians from the image above.
 
