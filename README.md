@@ -1,6 +1,3 @@
-[![Contributors][contributors-shield]][https://github.com/verwindle/]
-
-
 <!-- CONTENTS -->
 ## Contents
 
