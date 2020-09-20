@@ -47,4 +47,13 @@ chmod +x data_install_script
 <!-- USAGE -->
 ## Usage
 
-This is made as a report and does not imply execution.
+To get json of filenames and predicted gender:
+
+1. If current dir is not "task2"
+```sh
+cd task2
+```
+2. Execute script like in the following example:
+```sh
+python process.py images 100
+```
