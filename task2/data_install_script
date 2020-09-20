@@ -2,4 +2,7 @@
 gdown https://drive.google.com/uc?id=1-HUNDjcmSqdtMCvEkVlI0q43qlkcXBdK -O images.tar.gz
 # extract tararchive in images folder
 tar -xf images.tar.gz --totals
+# rename folder
 mv internship_data images
+# remove archive
+rm images.tar.gz
